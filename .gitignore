@@ -7,3 +7,13 @@ target/
 .project
 .settings
 .springBeans
+
+.idea/
+*.iml
+*target/
+out/
+*.DS_Store
+*.swp
+*.log*
+.codekit
+node_modules/
